@@ -1,0 +1,15 @@
+body  {
+margin: 0px;
+font-family: arial;
+
+}
+
+
+.section-1  {
+Background-color: blue;
+
+
+}
+.section-2  {
+	
+}
